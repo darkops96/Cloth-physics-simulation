@@ -5,4 +5,4 @@
  *Will be added soon.*
 
  ## Documentation
- ![Spanish documentation](https://github.com/darkops96/Cloth-physics-simulation/blob/main/Assets/Documentation/Documentation-Spanish.pdf "Spanish documentation")
+ * [Spanish documentation](https://github.com/darkops96/Cloth-physics-simulation/blob/main/Assets/Documentation/Documentation-Spanish.pdf "Spanish documentation in PDF format")
