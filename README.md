@@ -4,5 +4,5 @@
  ## Video demonstration
  *Will be added soon.*
 
- ## Spanish documentation
- <embed src="https://github.com/darkops96/Cloth-physics-simulation/blob/main/Assets/Documentation/Documentation-Spanish.pdf" type="application/pdf">
+ ## Documentation
+ ![Spanish documentation](https://github.com/darkops96/Cloth-physics-simulation/blob/main/Assets/Documentation/Documentation-Spanish.pdf "Spanish documentation")
